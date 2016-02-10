@@ -1,5 +1,7 @@
 package edu.saintjoe.cs.brianc.firstapp;
 
+//testing comment
+
 // Include these lines every time; they're needed by every ap
 import com.google.appinventor.components.runtime.Component;
 import com.google.appinventor.components.runtime.HandlesEventDispatching;
